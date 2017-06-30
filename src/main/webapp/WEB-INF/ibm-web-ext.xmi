@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webappext:WebAppExtension xmlns:webappext="webappext.xmi" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.ejs.models.base.extensions.commonext="commonext.xmi" xmlns:com.ibm.etools.webapplication="webapplication.xmi" xmi:version="2.0" xmi:id="WebApp_EXT_1187973760665" reloadingEnabled="true" reloadInterval="3" fileServingEnabled="true" directoryBrowsingEnabled="false" serveServletsByClassnameEnabled="false" preCompileJSPs="false" autoRequestEncoding="false" autoResponseEncoding="false" autoLoadFilters="false">
+  <additionalClassPath xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:nil="true"/>
+  <webApp href="WEB-INF/web.xml#WebApp_ID"/>
+  <jspAttributes name="keepgenerated" value="true" xmi:id="jspAttributes_1187975548686"/>
+</webappext:WebAppExtension>

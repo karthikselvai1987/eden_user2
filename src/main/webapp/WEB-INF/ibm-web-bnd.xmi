@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webappbnd:WebAppBinding xmlns:webappbnd="webappbnd.xmi" xmlns:xmi="http://www.omg.org/XMI" xmlns:common="common.xmi" xmlns:commonbnd="commonbnd.xmi" xmi:version="2.0" xmi:id="WebApp_BND_1187973760664" virtualHostName="default_host">
+  <webapp href="WEB-INF/web.xml#WebApp_ID"/>
+</webappbnd:WebAppBinding>
